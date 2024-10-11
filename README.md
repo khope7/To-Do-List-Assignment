@@ -1,0 +1,5 @@
+Hello! Here is my To-Do-List Application
+
+a. Include a README file that explains how to run the application and provides a brief overview of its features.
+
+Code is unfortunately written outside of functions but works fine from run, the application asks the user for operations using try else and except blocks to account for every entry type, option 1 entry appends the entries into a list and converts that list to a str, option 2 allows for user to view the updated full_list string at any time, options 3 and 4 allow for the user to change or remove the entries and going into option 1 again allows for the user to add onto the full_list string. It also asks the user to continue throughout the code for exits within menu options. Option 5 allows the user to exit the application along with pressing no for continue.
